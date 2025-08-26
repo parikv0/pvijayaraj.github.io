@@ -1,2 +1,2 @@
-# parvijayaraj.github.io
+# pvijayaraj.github.io
 Website for class
